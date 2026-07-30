@@ -10,7 +10,7 @@ title: Research
 (with Kiran Luecke) <br>
 [\[arXiv:2607.27124\]](https://arxiv.org/abs/2607.27124) <br>
 
-- Normed equivariant ring spectra and $\color{black} \mathbb{A}_n$-modules <br>
+- Normed equivariant ring spectra and $\textcolor{black}{\mathbb{A}_n}$-modules <br>
 (with Kailin Pan) <br>
 In preparation <br>
 
