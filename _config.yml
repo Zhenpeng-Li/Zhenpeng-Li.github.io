@@ -41,8 +41,8 @@ links:
     url: /research/
   - title: Awards
     url: /awards/
-  - title: Seminars
-    url: /seminars/
+  #- title: Seminars
+  # url: /seminars/
   - title: Links
     url: /links/
   #- title: Photos
