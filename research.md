@@ -2,6 +2,7 @@
 layout: page
 permalink: /research/index.html
 title: Research
+mathjax: true
 ---
 
 **arXiv preprints:** <br>
