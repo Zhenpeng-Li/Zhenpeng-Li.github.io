@@ -7,13 +7,7 @@ I'm **Zhenpeng Li**, currently a second-year Ph.D. student at the University of 
 
 My research interests lie in (chromatic, motivic, equivariant) homotopy theory and algebraic K-theory, with a particular focus on the highly structured rings in these settings. <br>
 
-<br>
-
-<br>
-
-<br>
-
-<br>
+---
 
 **Contact Information** <br>
 
