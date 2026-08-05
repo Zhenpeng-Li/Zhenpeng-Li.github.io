@@ -10,7 +10,7 @@ My research interests lie in (chromatic, motivic, equivariant) homotopy theory a
 ---
 
 **Contact Information** <br>
-
+<img src="https://zhenpeng-li.github.io/images/homepage.jpg" class="floatpic">
 - Email: zhenpeng.li [at] wisc.edu <br>
 - Office: Van Vleck 512 <br>
 
