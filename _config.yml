@@ -1,6 +1,5 @@
 title: Zhenpeng Li
 # tagline: Here is personal website of Hanlin Cai. Powered by Jekyll, based on the Minimal Mistakes theme.
-# description: Two roads diverged in woods, I took the one less traveled by.
 #Comment out url when working locally to resolve base urls correctly
 url: https://Zhenpeng-Li.github.io
 
@@ -8,20 +7,22 @@ url: https://Zhenpeng-Li.github.io
 owner:
   name: Zhenpeng Li
   avatar: avatar.jpg
-  bio: 
+ # bio: 
   email: zhenpeng.li@wisc.edu
   cv: https://zhenpeng-li.github.io/file/CV.pdf
- twitter: 
- github: https://github.com/Zhenpeng-Li
- linkedin: 
-  scholar: 
-  bilibili: 667981017
-  researchgate: 
-  zhihu: 
-   facebook: 
-   instagram: 
-   lastfm:
-   tumblr:
+  
+  github: Zhenpeng-Li
+ 
+  twitter: lancecai2002
+  github: GuangLun2000
+  linkedin: hanlincai
+  scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
+  researchgate: https://www.researchgate.net/profile/Hanlin-Cai
+  zhihu: https://www.zhihu.com/people/chlire
+  instagram: lancecai2002
+  
+  #lastfm:
+  #tumblr:
   # For Google Authorship https://plus.google.com/authorship
   # google_plus:
 
