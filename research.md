@@ -4,7 +4,7 @@ permalink: /research/index.html
 title: Research
 ---
 
-**arXiv preprints:** <br>
+<br>**arXiv preprints:** <br>
 
 - The spectrum of strict units of topological modular forms <br>
 (with Kiran Luecke) <br>
