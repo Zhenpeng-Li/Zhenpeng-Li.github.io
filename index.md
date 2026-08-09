@@ -11,7 +11,7 @@ I'm **Zhenpeng Li**, currently a second-year Ph.D. student in the Department of 
 
 **Contact Information** <br>
 - Email: zhenpeng.li [at] wisc.edu <br>
-- Office: Van Vleck 512 <br>
+- Office: Van Vleck 516 <br>
 
 ---
 <br>
