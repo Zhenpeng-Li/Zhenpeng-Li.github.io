@@ -402,12 +402,22 @@ img.mfp-img{width:auto;max-width:100%;height:auto;display:block;line-height:0;-w
   border-bottom: 0;
   text-decoration: none;
 }
-
-/* Mouse hover and keyboard focus */
 #main .article-wrap a:hover,
 #main .article-wrap a:focus-visible {
   color: #1558a6;
   border-bottom: 0;
   text-decoration: underline;
   text-underline-offset: 3px;
+}
+.article-author-top,
+.article-author-top p,
+.article-author-top a,
+.article-author-top a:visited {
+  color: #888;
+}
+
+/* Blue on hover or keyboard focus */
+.article-author-top a:hover,
+.article-author-top a:focus-visible {
+  color: #1558a6;
 }
