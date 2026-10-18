@@ -1,5 +1,6 @@
 ---
 layout: page
+homepage: true
 permalink: /research/index.html
 title: Research
 ---
