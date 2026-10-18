@@ -396,3 +396,18 @@ img.mfp-img{width:auto;max-width:100%;height:auto;display:block;line-height:0;-w
 .MathJax .mo {
   color: inherit;
 }
+#main .article-wrap a,
+#main .article-wrap a:visited {
+  color: #000;
+  border-bottom: 0;
+  text-decoration: none;
+}
+
+/* Mouse hover and keyboard focus */
+#main .article-wrap a:hover,
+#main .article-wrap a:focus-visible {
+  color: #1558a6;
+  border-bottom: 0;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
